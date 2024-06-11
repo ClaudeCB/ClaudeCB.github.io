@@ -1,7 +1,5 @@
-body {
-	background: lightyellow;
-	font: 18px Arial, sans-serif;
-}
-h1 {
-	color: orange;
-}
+body {background: #D2FFC7; font: 18px Arial, sans-serif;}
+h1 {color: #58E435;}
+#text { width: 1400px; margin: 0 auto;}
+#menu {color: #3C5B3A; text-align: center; margin-bottom: 0; padding-bottom: 0; line-height: 1em; font-weight: bold;}
+#text p {background-color: #3C5B3A; color: white; margin-top: 0; padding: 25px; font-weight: bold;}
